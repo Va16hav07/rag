@@ -267,9 +267,6 @@ First run generates embeddings (takes ~2-3 minutes). Subsequent runs will be fas
 
 **Original Concept & Implementation:** [@manit101](https://github.com/manit101)
 
-**Assignment & Course:** Achint Setia  
-**University:** [Your Institution]  
-**Date:** March 2026
 
 ---
 
@@ -280,13 +277,3 @@ This project is for educational purposes as part of the course assignment on Ret
 **Copyright Notice:** The source text (*The Intelligent Investor*) is protected by copyright and used for educational purposes only under fair use guidelines.
 
 ---
-
-## Contact & Support
-
-For questions about this RAG system implementation, please refer to the course instructor or review the assignment guidelines.
-
----
-
-**Status:** ✅ Assignment Complete | Ready for Submission
-
-Last Updated: March 30, 2026

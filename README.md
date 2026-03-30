@@ -4,23 +4,6 @@
 
 A **Retrieval-Augmented Generation (RAG) System** that ingests investment textbooks and answers financial questions using semantic search and generative AI. This project demonstrates the end-to-end RAG pipeline: from PDF ingestion and vector embeddings to semantic retrieval and response generation.
 
-## Assignment Details
-
-**Course:** Stock Market & Investment Analysis  
-**Instructor:** Achint Setia  
-**Date:** March 5, 2026  
-**Topic:** Retrieval-Augmented Generation Implementation
-
-### Assignment Objective
-
-Build and demonstrate a functional RAG system using *The Intelligent Investor* textbook that:
-- Ingests PDF documents and creates text chunks
-- Generates semantic embeddings for chunks
-- Retrieves relevant content using vector similarity search
-- Generates accurate answers using Google Gemini AI
-
----
-
 ## Key Features
 
 ✅ **PDF Processing** - Extracts and chunks text from investment books  
